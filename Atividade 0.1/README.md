@@ -1,6 +1,6 @@
 ## Resultados obtidos nas somas (preenchidos na tabela)
 
-<img width="1220" height="683" alt="image" src="https://github.com/user-attachments/assets/71f65799-240e-4265-969b-312466f7ce43" />
+<img width="1154" height="648" alt="image" src="https://github.com/user-attachments/assets/a763cf88-12cc-4d3b-97e9-9e27d753ed4b" />
 
 ## Onde podemos encontrar os valores de v3?
 
