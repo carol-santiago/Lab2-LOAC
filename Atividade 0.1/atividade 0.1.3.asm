@@ -4,7 +4,7 @@ add x12, x10, x11
 sw x12, v3
 halt
 
-v1: .word 0x25
-v2: .word 0x12
+v1: .word 0x19
+v2: .word 0xC
 v3: .word 0x0000
 
